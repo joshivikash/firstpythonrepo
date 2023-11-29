@@ -1,0 +1,6 @@
+f = open('myFile.txt','w')
+f.write('My ')
+f.write('name ')
+f.write(' is Vikash')
+f.write('.')
+f.close()
