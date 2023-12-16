@@ -11,4 +11,4 @@ def reverse(L):
         return L
     return [L[-1]] + reverse(L[:-1])
 
-print(reverse([1,'2',3]))
+print(reverse([1,2,3]))
